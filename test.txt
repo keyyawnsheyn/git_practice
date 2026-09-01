@@ -4,3 +4,5 @@ Make the money work 4 u!
 what do u need me to do?
 added something cool
 added something cool again
+added something cool\
+fixed bug
